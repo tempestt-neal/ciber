@@ -1,32 +1,32 @@
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Surveying Stylometry Techniques and Applications"
+  image: stylometry_survey.png
+  description: Here, we perform an extensive performance analysis on a corpus of 1,000 authors to investigate authorship attribution, verification, and clustering using 14 algorithms from the literature. Finally, several remaining research challenges are discussed, along with descriptions of various open-source and commercial software that may be useful for stylometry subtasks.
+  authors: Tempestt Neal, Kalaivani Sundararajan, Aneez Fatima, Yiming Yan, Yingfei Xiang, Damon Woodard
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
+    url: https://dl.acm.org/doi/abs/10.1145/3132039
     display: Science 374, 608 (2021)
-  highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  highlight: 0
+  news2: 
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Exploiting Linguistic Style as a Cognitive Biometric for Continuous Verification"
+  image: 
+  description: This paper presents an assessment of continuous verification using linguistic style as a cognitive biometric. In stylometry, it is widely known that linguistic style is highly characteristic of authorship using representations that capture authorial style at character, lexical, syntactic, and semantic levels. In this work, we provide a contrast to previous efforts by implementing a one-class classification problem using Isolation Forests. Our approach demonstrates the usefulness of this classifier for accurately verifying the genuine user, and yields recognition accuracy exceeding 98% using very small training samples of 50 and 100-character blocks.
+  authors: Tempestt Neal, Kalaivani Sundararajan, Damon Woodard
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
+    url: https://ieeexplore.ieee.org/abstract/document/8411232
     display:  arXiv:2107.14716 (2021)
   highlight: 0
   news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Style Signatures to Combat Biometric Menagerie in Stylometry"
+  image: 
+  description: In this paper, we investigate the challenges of using a person's writing style as a cognitive biometric modality by applying Doddington's idea of Biometric menagerie. To the best of our knowledge, biometric menagerie analysis has been on performed on a cognitive biometric modality for the first time. The presence of goats, wolves and lambs in this modality is demonstrated using two publicly available datasets - Blogs and IMDB1M. To combat this challenging problem, we further propose using person-specific features referred to as "Style signatures" which may be better at distinguishing different individuals. Experimental results show that using person-specific Style signatures improve verification by 3.6-5.5% on both datasets.
+  authors: Kalaivani Sundararajan, Tempestt Neal, Damon Woodard
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
+    url: https://ieeexplore.ieee.org/abstract/document/8411231
     display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+  highlight: 0
+  news2: 
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
   image: YSR.png
