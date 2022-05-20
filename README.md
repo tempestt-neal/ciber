@@ -1,4 +1,4 @@
-# Allan Lab Website
+# NLP Group at USF
 
 This is the website of our academic research group at Leiden University.
 
