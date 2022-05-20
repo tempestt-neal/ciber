@@ -6,6 +6,13 @@
   education1: Ph.D., Computer Engineering, University of Florida
   education2: Director, Cyber Identity and Behavior Research Lab
   education3: Research Areas: Authorship Attribution, Authorship Verification, Stylometry
+  
+- name: Gene Louis Kim
+  photo: Gene.jpg
+  info: Visiting Assistant Professor, started December 2021; Assistant Professor beginning in August 2022
+  email: genekim@usf.edu
+  number_educ: 1
+  education1: Ph.D., Computer Science, University of Rochester
 
 - name: Parush Gera
   photo: parush.jpg
@@ -23,10 +30,3 @@
   number_educ: 2
   education1: M.E., Panjab University
   education2: B.E., Panjab University
-
-- name: Gene Louis Kim
-  photo: Gene.jpg
-  info: Visiting Assistant Professor, started December 2021; Assistant Professor beginning in August 2022
-  email: genekim@usf.edu
-  number_educ: 1
-  education1: Ph.D., Computer Science, University of Rochester
