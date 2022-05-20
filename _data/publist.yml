@@ -28,6 +28,26 @@
   highlight: 0
   news2: 
 
+- title: "A Transition-based Parser for Unscoped Episodic Logical Forms"
+  image: ulf_transition_parser.png
+  description: This paper presents the first learned approach for parsing sentences into ULFs, using a growing set of annotated examples. Our method learns a sequence-to-sequence model for predicting the transition action sequence within a modified cache transition system and provides a strong baseline for future improvement. We also evaluate the efficacy of type grammar-based constraints, a word-to-symbol lexicon, and transition system state features in this task.
+  authors: Gene Louis Kim, Viet Duong, Xin Lu, Lenhart Schubert
+  link:
+    url: https://aclanthology.org/2021.iwcs-1.18/
+    display: IWCS 2021, Article 18
+  highlight: 1
+  news2:
+
+- title: "Montague Induction Grammar"
+  image: montague_induction_grammar.png
+  description: Here, we propose a computational modeling framework for inducing combinatory categorial grammars from arbitrary language data. This framework provides fine-grained control over the assumptions that the induced grammar should conform to. In a proof-of-concept experiment, we deploy our framework for use in distributional analysis of the relationship between s(emantic)-selection and c(ategory)-selection, using as input a lexicon-scale acceptability judgment dataset focused on English verbs’ syntactic distribution and enforcing standard assumptions from the semantics literature on the induced grammar.
+  authors: Gene Louis Kim, Aaron Steven White
+  link:
+    url: https://doi.org/10.3765/salt.v30i0.4816
+    display: SALT 30 (2021)
+  highlight: 1
+  news2:
+
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
   image: YSR.png
   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
