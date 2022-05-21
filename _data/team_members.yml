@@ -13,20 +13,3 @@
   email: genekim@usf.edu
   number_educ: 1
   education1: Ph.D., Computer Science, University of Rochester
-
-- name: Parush Gera
-  photo: parush.jpg
-  info: PhD Student, started Jan 2019
-  email: parush@usf.edu
-  number_educ: 3
-  education1: M.S., University of South Florida
-  education2: M.B.A., Punjabi University
-  education3: B.E., Panjab University
-
-- name: Meghna Chaudhary
-  photo: meghna.jpg
-  info: PhD Student, started Jan 2020
-  email: meghna1@usf.edu
-  number_educ: 2
-  education1: M.E., Panjab University
-  education2: B.E., Panjab University
