@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-For a full list of publications, go to <a href="[https://scholar.google.com/citations?user=GopCh2QAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=GopCh2QAAAAJ&view_op=list_works&sortby=pubdate)">Google Scholar (Neal)</a>, <a href="[https://scholar.google.com/citations?user=pewRWtIAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?hl=en&user=pewRWtIAAAAJ&view_op=list_works&sortby=pubdate)">Google Scholar (Licato)</a>, or <a href="https://scholar.google.com/citations?hl=en&user=9jFmOukAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar (Kim)</a>.
+For a full list of publications, go to <a href="https://scholar.google.com/citations?hl=en&user=GopCh2QAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar (Neal)</a>, <a href="https://scholar.google.com/citations?hl=en&user=pewRWtIAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar (Licato)</a>, or <a href="https://scholar.google.com/citations?hl=en&user=9jFmOukAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar (Kim)</a>.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
