@@ -1,5 +1,5 @@
 ---
-title: "USF NLP Group - Vacancies"
+title: "NLP Group @ USF - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
