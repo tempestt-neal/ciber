@@ -8,9 +8,6 @@ permalink: /vacancies
 
 # Open positions
 
-**Note: Currently, only Dr. Kim has funding for additional PhD positions. The other professors can only welcome you if you have a fellowship.**
-
-
 We are looking for new group members with passion, talent, and grit!
 
 You will have the chance to work in the growing field of natural language processing: its use for the study of language, its interface with computer reasoning, and its application in analyzing human behaviors both within and beyond the field of computer science. 
