@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "NLP Group @ USF - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "NLP Group @ USF"
 sitemap: false
 permalink: /
 ---
