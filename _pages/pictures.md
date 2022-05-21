@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "NLP Group @ USF - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "NLP Group @ USF -- Pictures"
 permalink: /pictures/
 ---
 
