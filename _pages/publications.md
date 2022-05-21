@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "NLP Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "NLP Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+For a full list of publications, go to <a href="[https://scholar.google.com/citations?user=GopCh2QAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=GopCh2QAAAAJ&view_op=list_works&sortby=pubdate)">Google Scholar (Neal)</a>, <a href="[https://scholar.google.com/citations?user=pewRWtIAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?hl=en&user=pewRWtIAAAAJ&view_op=list_works&sortby=pubdate)">Google Scholar (Licato)</a>, or <a href="https://scholar.google.com/citations?hl=en&user=9jFmOukAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar (Kim)</a>.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,11 +51,12 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
+<!---
 ## Patents
 <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+-->
 
 ## Full List of publications
 
@@ -65,3 +66,4 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
