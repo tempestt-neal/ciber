@@ -1,7 +1,7 @@
 ---
-title: "NLP Group - Publications"
+title: "NLP Group @ USF - Publications"
 layout: gridlay
-excerpt: "NLP Group -- Publications."
+excerpt: "NLP Group @ USF -- Publications."
 sitemap: false
 permalink: /publications/
 ---
