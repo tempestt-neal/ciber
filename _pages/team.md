@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## Staff
+## Faculty and Ph.D. Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -192,5 +192,5 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+## Administrative and System Support
+<a href="https://www.usf.edu/engineering/cse/people/staff.aspx">USF's Department of Computer Science and Engineering Staff</a>
