@@ -4,7 +4,7 @@
   email: tjneal@usf.edu
   number_educ: 2
   education1: Ph.D., Computer Engineering, University of Florida
-  education2: Director, [Cyber Identity and Behavior Research Lab](https://tempestt-neal.github.io/web/research/)
+  education2: Director, <a href="https://tempestt-neal.github.io/web/research/">Cyber Identity and Behavior Research Lab</a>
   
 - name: Gene Louis Kim, Ph.D.
   photo: Gene.jpg
@@ -17,6 +17,6 @@
   photo: licato.jpeg
   info: Assistant Professor
   email: licato@usf.edu
-  number_educ: 1
+  number_educ: 2
   education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
-  education2: Director, [Advancing Machine and Human Reasoning Lab](https://sites.google.com/view/amhr)
+  education2: Director, <a href="https://sites.google.com/view/amhr">Advancing Machine and Human Reasoning Lab</a>
