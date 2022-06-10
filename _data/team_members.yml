@@ -1,15 +1,22 @@
 - name: Tempestt Neal, Ph.D.
   photo: Neal-Headshot.jpeg
-  info: Assistant Professor, started August 2018
+  info: Assistant Professor
   email: tjneal@usf.edu
-  number_educ: 3
+  number_educ: 2
   education1: Ph.D., Computer Engineering, University of Florida
-  education2: Director, Cyber Identity and Behavior Research Lab
-  education3: Research Areas - Authorship Attribution, Authorship Verification, Stylometry
+  education2: Director, [Cyber Identity and Behavior Research Lab](https://tempestt-neal.github.io/web/research/)
   
 - name: Gene Louis Kim, Ph.D.
   photo: Gene.jpg
-  info: Visiting Assistant Professor, started December 2021; Assistant Professor beginning in August 2022
+  info: Visiting Assistant Professor; Assistant Professor beginning in August 2022
   email: genekim@usf.edu
   number_educ: 1
   education1: Ph.D., Computer Science, University of Rochester
+  
+- name: John Licato, Ph.D.
+  photo: licato.jpeg
+  info: Assistant Professor
+  email: licato@usf.edu
+  number_educ: 1
+  education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
+  education2: Director, [Advancing Machine and Human Reasoning Lab](https://sites.google.com/view/amhr)
