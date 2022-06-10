@@ -23,4 +23,5 @@ Currently, Dr. Neal does not have funding for additional PhD students and can on
 If you are a Master student at USF looking for a Master project and would like to work with
 - Dr. Kim: contact him per email or stop by his office,
 - Dr. Licato: see [the AMHR Lab page on prospective students](https://sites.google.com/view/amhr/people/prospective-students). 
+- Dr. Neal: contact her per email or stop by her office.
 
