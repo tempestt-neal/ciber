@@ -5,7 +5,7 @@
   link:
     url: https://dl.acm.org/doi/abs/10.1145/3132039
     display: ACM Computing Surveys (2017)
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "Exploiting Linguistic Style as a Cognitive Biometric for Continuous Verification"
@@ -35,7 +35,7 @@
   link:
     url: https://aclanthology.org/2021.iwcs-1.18/
     display: IWCS 2021, Article 18
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Montague Induction Grammar"
@@ -45,5 +45,5 @@
   link:
     url: https://doi.org/10.3765/salt.v30i0.4816
     display: SALT 30 (2021)
-  highlight: 1
+  highlight: 0
   news2:
