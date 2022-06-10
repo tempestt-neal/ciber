@@ -7,10 +7,11 @@ permalink: /publications/
 ---
 
 
-# Publications
+# Selected Publications
 
 For a full list of publications, go to <a href="https://scholar.google.com/citations?hl=en&user=GopCh2QAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar (Neal)</a>, <a href="https://scholar.google.com/citations?hl=en&user=pewRWtIAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar (Licato)</a>, or <a href="https://scholar.google.com/citations?hl=en&user=9jFmOukAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar (Kim)</a>.
 
+<!--
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -48,6 +49,7 @@ For a full list of publications, go to <a href="https://scholar.google.com/citat
 {% endif %}
 
 <p> &nbsp; </p>
+-->
 
 <!---
 ## Patents
@@ -55,8 +57,6 @@ For a full list of publications, go to <a href="https://scholar.google.com/citat
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 -->
-
-## Selected List of Publications
 
 {% for publi in site.data.publist %}
 
