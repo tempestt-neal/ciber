@@ -146,5 +146,3 @@ permalink: /team/
 {{ member.name }}
 {% endfor %}
 </div>
-
-</div>
