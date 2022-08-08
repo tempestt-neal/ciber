@@ -36,6 +36,8 @@ Commercial mobile devices currently employ point-of-entry (PoE) authentication m
 9.	T. Neal and D. L. Woodard. “Adversarial Attacks in Mobile Environments.” Eds. T. Bourlai, P. Karampelas, and V. Patel. Securing Social Identity in Mobile Platforms, Technologies for Social Network Analysis and Identity Management. Springer, expected 2019.
 10.	T. Neal, Woodard, Damon L., and Striegel, Aaron D. Mobile device usage data as behavioral biometrics (Security, 2017), ‘Mobile Biometrics’, Chap. 7, pp. 177-207, DOI: 10.1049/PBSE003E ch7.
 
+( --- )
+
 ### Age-Aware User Authentication
 Current software for user authentication relies on the user to directly initiate some interaction (i.e., active authentication). However, active authentication systems are not accessible to individuals across all age groups. Continuous authentication schemes transparently observe a user's natural multimodal behaviors to leverage all possible signals as input for authentication, and hence do not require explicit authentication interactions to be initiated by the user, and are thus a promising framework for authentication by individuals of different age groups. This project's novelties are 1) to advance understanding of how individuals of different age groups use and perceive existing authentication methods, especially concerning users' mental models and acceptance of monitoring for the purposes of continuous authentication, and 2) to collect and analyze a variety of user signals in multiple behavioral and physiological modalities for age-aware continuous authentication on personal computing devices. This research also informs the design of continuous authentication interactions in other contexts such as public spaces and other smart environments, in which continuous authentication might be useful. The research includes three phases. (1) Elicit the mental models multi-generational users have of what it means to authenticate to a system, if and when they expect the system to re-authenticate them to confirm their identity as they continue to interact, and if and how they expect to receive feedback of authentication attempts. (2) Produce a novel dataset of behavioral and physiological data, such as touch gestures, keystroke dynamics, heart-rate variability, and skin temperature, through a series of data collection sessions wherein individuals of different age groups will be recruited to complete a diverse set of tasks. (3) Develop fundamental knowledge of age-aware continuous authentication through the analysis of these data using state-of-the-art machine and deep learning techniques. 
 
@@ -58,18 +60,16 @@ a researcher will reach out to you to formally schedule the meeting.
 **This project has resulted in the following publications:**
 1. Tempestt Neal, Lisa Anthony, Shaun Canavan, Jaime Ruiz, Saandeep Aathreya, Meghna Chaudhary, Yu-Peng Chen, Heting Wang, Rodrigo Calvo, Liza Jivnani and Nicolas Ng Wai. "Toward Understanding Children's Use and Understanding of User Authentication Systems: Work-in-Progress." USENIX Symposium on Usable Privacy and Security (SOUPS) 2022. SOUPS 2022: Workshop on Kids' Online Privacy and Safety.
 
-### Automated Deception Detection and Suicide
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+( --- )
 
 ### Human Behavior Tracking and Mental Health
-Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
 
-We also detected and investigated a quite particular YSR state in the same material.
+This project focuses on the Up To Me program, a three lesson, disclosure-based stigma reduction program meant to reduce barriers to community living and participation for college students with psychiatric disabilities. Anticipated outcomes of this project for college students include improvements in 1) self-stigma (self-esteem and self-efficacy), 2) empowerment and self-determination, 3) appraisals of stigma as a stressor, 4) student engagement on campus, 5) sense of campus belonging, and 6) care seeking/service engagement for mental illness. The CIBeR Lab's contributions lies in the investigation of the use of sensor data collected from a smartphone as a proxy of behavior to substantiate self-report data on outcomes. 
 
-### AI for Dementia
-![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+*This award (90IFRE0056) is supported by the Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) as part of a financial assistance award totaling $600,000 with 100 percent funding by ACL/HHS. The contents are those of the author(s) and do not necessarily represent the official views of, nor an endorsement, by ACL/HHS, or the U.S. Government.*
 
+**This project has resulted in the following publications:**
+1. King S, Lebert J, Karpisek L, Phillips A, Neal T, Kosyluk K. "Characterizing User Experiences With an SMS Text Messaging–Based mHealth Intervention: Mixed Methods Study" JMIR Form Res 2022;6(5):e35699 URL: https://formative.jmir.org/2022/5/e35699 DOI: 10.2196/35699
+
+( --- )
 ### We also conduct research in natural language processing as a part of the [Natural Language Processing Group](https://nlp-grp.github.io/) at USF.
