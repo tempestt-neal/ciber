@@ -1,6 +1,6 @@
 ---
 title: "NLP Group @ USF - Home"
-layout: homelay
+layout: default
 excerpt: "NLP Group @ USF"
 sitemap: false
 permalink: /
