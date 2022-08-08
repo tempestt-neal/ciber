@@ -36,14 +36,15 @@ Commercial mobile devices currently employ point-of-entry (PoE) authentication m
 9.	T. Neal and D. L. Woodard. “Adversarial Attacks in Mobile Environments.” Eds. T. Bourlai, P. Karampelas, and V. Patel. Securing Social Identity in Mobile Platforms, Technologies for Social Network Analysis and Identity Management. Springer, expected 2019.
 10.	T. Neal, Woodard, Damon L., and Striegel, Aaron D. Mobile device usage data as behavioral biometrics (Security, 2017), ‘Mobile Biometrics’, Chap. 7, pp. 177-207, DOI: 10.1049/PBSE003E ch7.
 
-( --- )
+<hr />
 
 ### Age-Aware User Authentication
 Current software for user authentication relies on the user to directly initiate some interaction (i.e., active authentication). However, active authentication systems are not accessible to individuals across all age groups. Continuous authentication schemes transparently observe a user's natural multimodal behaviors to leverage all possible signals as input for authentication, and hence do not require explicit authentication interactions to be initiated by the user, and are thus a promising framework for authentication by individuals of different age groups. This project's novelties are 1) to advance understanding of how individuals of different age groups use and perceive existing authentication methods, especially concerning users' mental models and acceptance of monitoring for the purposes of continuous authentication, and 2) to collect and analyze a variety of user signals in multiple behavioral and physiological modalities for age-aware continuous authentication on personal computing devices. This research also informs the design of continuous authentication interactions in other contexts such as public spaces and other smart environments, in which continuous authentication might be useful. The research includes three phases. (1) Elicit the mental models multi-generational users have of what it means to authenticate to a system, if and when they expect the system to re-authenticate them to confirm their identity as they continue to interact, and if and how they expect to receive feedback of authentication attempts. (2) Produce a novel dataset of behavioral and physiological data, such as touch gestures, keystroke dynamics, heart-rate variability, and skin temperature, through a series of data collection sessions wherein individuals of different age groups will be recruited to complete a diverse set of tasks. (3) Develop fundamental knowledge of age-aware continuous authentication through the analysis of these data using state-of-the-art machine and deep learning techniques. 
 
 This project is a collaboration between the CIBeR Lab, the [Affective Vision Lab](https://scanavan.github.io/), the [Intelligent Natural Interaction Technology Lab](http://init.cise.ufl.edu/), and the [Ruiz Human-Computer Interaction Lab](https://ruizlab.org/).
 
-***We are currently conducting data for this project!*** We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old to participate in a NSF-funded research study to investigate the usability and design of user authentication systems to support individuals in different age ranges. 
+#### We are currently collecting data for this project!
+We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old to participate in a NSF-funded research study to investigate the usability and design of user authentication systems to support individuals in different age ranges. 
  
 **Study Purpose:** The purpose of this study is to investigate age-aware user authentication methods in home settings. User authentication is important for protecting you against unauthorized use of your personal computing devices, such as laptops and smartphones. It is likely that you already use an authentication method like a password or face recognition. However, these methods are not easily usable for users of different age groups. For example, younger users may find it difficult to create strong passwords. This study aims to collect data to help us develop new user authentication techniques that support users of all ages.
  
@@ -60,7 +61,7 @@ a researcher will reach out to you to formally schedule the meeting.
 **This project has resulted in the following publications:**
 1. Tempestt Neal, Lisa Anthony, Shaun Canavan, Jaime Ruiz, Saandeep Aathreya, Meghna Chaudhary, Yu-Peng Chen, Heting Wang, Rodrigo Calvo, Liza Jivnani and Nicolas Ng Wai. "Toward Understanding Children's Use and Understanding of User Authentication Systems: Work-in-Progress." USENIX Symposium on Usable Privacy and Security (SOUPS) 2022. SOUPS 2022: Workshop on Kids' Online Privacy and Safety.
 
-( --- )
+<hr />
 
 ### Human Behavior Tracking and Mental Health
 
@@ -71,7 +72,7 @@ This project focuses on the Up To Me program, a three lesson, disclosure-based s
 **This project has resulted in the following publications:**
 1. King S, Lebert J, Karpisek L, Phillips A, Neal T, Kosyluk K. "Characterizing User Experiences With an SMS Text Messaging–Based mHealth Intervention: Mixed Methods Study" JMIR Form Res 2022;6(5):e35699 URL: https://formative.jmir.org/2022/5/e35699 DOI: 10.2196/35699
 
-( --- )
+<hr />
 
 ### Transportation Behavior Analysis via Smart Sensing
 
