@@ -14,7 +14,8 @@ Our research is largely inspired by the ubiquitous nature of today's technologie
 
 Here are some themes and techniques that we currently work on:
 
-**Mobile Biometrics.** Commercial mobile devices currently employ point-of-entry (PoE) authentication methods such as face recognition and personal identification numbers. Several studies show that knowledge-based authenticators are ineffective due to increased memory load, poorly chosen alphanumeric combinations, and repetitive use of passcodes across many applications. PoE and knowledge-based authenticators are both ineffective throughout sessions of use; once the user is authenticated, the device and its content remain available to the current user. In this research, we explored various data based on usage of a mobile device as behavioral biometric modalities, including patterns in application use, networking activity (i.e., Bluetooth and Wi-Fi sightings), and communication through calling and text messaging, which can continuously and passively authenticate a device’s owner. 
+### Mobile Biometrics
+Commercial mobile devices currently employ point-of-entry (PoE) authentication methods such as face recognition and personal identification numbers. Several studies show that knowledge-based authenticators are ineffective due to increased memory load, poorly chosen alphanumeric combinations, and repetitive use of passcodes across many applications. PoE and knowledge-based authenticators are both ineffective throughout sessions of use; once the user is authenticated, the device and its content remain available to the current user. In this research, we explored various data based on usage of a mobile device as behavioral biometric modalities, including patterns in application use, networking activity (i.e., Bluetooth and Wi-Fi sightings), and communication through calling and text messaging, which can continuously and passively authenticate a device’s owner. 
 
 *Significant findings and methods developed throughout this research include:*
 *	We demonstrated the use of association rules as a feature representation for application, Bluetooth, and Wi-Fi data which outperformed previously employed frequency-based features. Our findings suggest that patterns in application and Bluetooth traffic are more distinct than those in Wi-Fi patterns with up to 91% accuracy. Performance obtained in this study were consistent with implementations of keystroke dynamics and touch gestures for biometric authentication, a significant indication that passive modalities are as viable as their physical counterparts.
@@ -23,7 +24,7 @@ Here are some themes and techniques that we currently work on:
 *	We introduced an easily interpretable profiling technique as a feature representation for user-device interaction data that contextualizes mobile device usage patterns. Our experiments show that these profiles allow better separation of legitimate and impostor behavior. Error rates associated with behavior profiles either improved or were not affected by the amount of data provided for authentication, while those associated with frequency-based features, which are seen in several research studies, worsened. 
 *	We developed a novel ranking function which quantifies the informativeness of a soft biometric class for search space reduction. The function relies on the rank-1 recognition accuracy for the class, a score quantifying the permanence of the class, and a cost derived from the ratio of misclassifications to the number of subjects in the soft biometric class.
  
-This project resulted in the following publications:
+**This project has resulted in the following publications:**
 1.	T. Neal, D. Woodard and A. D. Striegel. Mobile device application, Bluetooth, and Wi-Fi usage data as behavioral biometric traits, 2015 IEEE 7th International Conference on Biometrics Theory, Applications and Systems (BTAS), Arlington, VA, 2015, pp. 1-6. doi: 10.1109/BTAS.2015.7358777 
 2.	T. Neal and D. L. Woodard. Spoofing analysis of mobile device data as behavioral biometric modalities, 2017 IEEE International Joint Conference on Biometrics (IJCB), Denver, CO, 2017, pp. 62-70. doi: 10.1109/BTAS.2017.8272683 
 3.	T. Neal and D. L. Woodard. Using associative classification to authenticate mobile device users, 2017 IEEE International Joint Conference on Biometrics (IJCB), Denver, CO, 2017, pp. 71-79. doi: 10.1109/BTAS.2017.8272684 
@@ -35,29 +36,40 @@ This project resulted in the following publications:
 9.	T. Neal and D. L. Woodard. “Adversarial Attacks in Mobile Environments.” Eds. T. Bourlai, P. Karampelas, and V. Patel. Securing Social Identity in Mobile Platforms, Technologies for Social Network Analysis and Identity Management. Springer, expected 2019.
 10.	T. Neal, Woodard, Damon L., and Striegel, Aaron D. Mobile device usage data as behavioral biometrics (Security, 2017), ‘Mobile Biometrics’, Chap. 7, pp. 177-207, DOI: 10.1049/PBSE003E ch7.
 
-**Inclusive Identity and Access Management.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+### Age-Aware User Authentication
+Current software for user authentication relies on the user to directly initiate some interaction (i.e., active authentication). However, active authentication systems are not accessible to individuals across all age groups. Continuous authentication schemes transparently observe a user's natural multimodal behaviors to leverage all possible signals as input for authentication, and hence do not require explicit authentication interactions to be initiated by the user, and are thus a promising framework for authentication by individuals of different age groups. This project's novelties are 1) to advance understanding of how individuals of different age groups use and perceive existing authentication methods, especially concerning users' mental models and acceptance of monitoring for the purposes of continuous authentication, and 2) to collect and analyze a variety of user signals in multiple behavioral and physiological modalities for age-aware continuous authentication on personal computing devices. This research also informs the design of continuous authentication interactions in other contexts such as public spaces and other smart environments, in which continuous authentication might be useful. The research includes three phases. (1) Elicit the mental models multi-generational users have of what it means to authenticate to a system, if and when they expect the system to re-authenticate them to confirm their identity as they continue to interact, and if and how they expect to receive feedback of authentication attempts. (2) Produce a novel dataset of behavioral and physiological data, such as touch gestures, keystroke dynamics, heart-rate variability, and skin temperature, through a series of data collection sessions wherein individuals of different age groups will be recruited to complete a diverse set of tasks. (3) Develop fundamental knowledge of age-aware continuous authentication through the analysis of these data using state-of-the-art machine and deep learning techniques. 
 
-**Automated Deception Detection and Suicide**.
+This project is a collaboration between the CIBeR Lab, the [Affective Vision Lab](https://scanavan.github.io/), the [Intelligent Natural Interaction Technology Lab](http://init.cise.ufl.edu/), and the [Ruiz Human-Computer Interaction Lab](https://ruizlab.org/).
+
+***We are currently conducting data for this project!*** We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old to participate in a NSF-funded research study to investigate the usability and design of user authentication systems to support individuals in different age ranges. 
+ 
+**Study Purpose:** The purpose of this study is to investigate age-aware user authentication methods in home settings. User authentication is important for protecting you against unauthorized use of your personal computing devices, such as laptops and smartphones. It is likely that you already use an authentication method like a password or face recognition. However, these methods are not easily usable for users of different age groups. For example, younger users may find it difficult to create strong passwords. This study aims to collect data to help us develop new user authentication techniques that support users of all ages.
+ 
+**Your Role in this Study:** If you are interested, you will be asked to participate in four sessions with us. The first session is completely virtual (e.g., Microsoft Teams, Zoom, etc.), where a member of the research team will overview the consent form which details the study procedures and allows you to make an informed decision on if you want to participate. This meeting is approximately 20 minutes. 
+You can then decide if you would like to participate in the following three sessions, which will require you to come into the lab on three separate occasions for data collection. Each of these sessions will last for approximately one hour, where you will perform a set of everyday tasks like watching short YouTube videos and typing on a computer. As you complete these tasks, the research team has developed software to collect various types of data characterizing your interaction with the devices you will be using, including but not limited to, video, audio, physiological data (e.g., heartbeat), keystroke, and touchscreen gestures. 
+ 
+You will be compensated $35 as an e-gift card for each completed session. As a participant, you must be willing to agree to comply with all COVID-19 safety measures as outlined in the consent form.
+ 
+**Do you qualify?** If you are 6 to 12 or 18 years old or older and wish to participate, please click here to select a time to schedule your first session where we will overview the study details. Once you’ve selected a date and time that works for you, 
+a researcher will reach out to you to formally schedule the meeting.
+  
+*The material produced in this project is based upon work supported by the National Science Foundation under Grant No. 2039373 and 2039379. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. This study has been approved by the USF IRB board #STUDY002291. This research is funded by NSF Secure &Trustworthy Cyberspace Program Study #2039373.*
+
+**This project has resulted in the following publications:**
+1. Tempestt Neal, Lisa Anthony, Shaun Canavan, Jaime Ruiz, Saandeep Aathreya, Meghna Chaudhary, Yu-Peng Chen, Heting Wang, Rodrigo Calvo, Liza Jivnani and Nicolas Ng Wai. "Toward Understanding Children's Use and Understanding of User Authentication Systems: Work-in-Progress." USENIX Symposium on Usable Privacy and Security (SOUPS) 2022. SOUPS 2022: Workshop on Kids' Online Privacy and Safety.
+
+### Automated Deception Detection and Suicide
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
 One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
 
-**Human Behavior Tracking and Mental Health.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
+### Human Behavior Tracking and Mental Health
+Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
 We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
 
 We also detected and investigated a quite particular YSR state in the same material.
 
-**AI for Dementia.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
+### AI for Dementia
+![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
 For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
 
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
-
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
 ### We also conduct research in natural language processing as a part of the [Natural Language Processing Group](https://nlp-grp.github.io/) at USF.
-
-### ... and more.
