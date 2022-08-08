@@ -45,7 +45,7 @@ This project is a collaboration between the CIBeR Lab, the [Affective Vision Lab
 
 #### Here's a research talk that Dr. Neal gave at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) focused on this project.
 
-https://user-images.githubusercontent.com/64705103/183489899-0eacc2b1-697a-4466-9e6d-31e5b9afaa5d.mp4
+[Watch the talk.](https://user-images.githubusercontent.com/64705103/183489899-0eacc2b1-697a-4466-9e6d-31e5b9afaa5d.mp4)
 
 
 #### We are currently collecting data for this project! We need your help!
