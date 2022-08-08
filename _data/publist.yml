@@ -1,49 +1,9 @@
-- title: "Surveying Stylometry Techniques and Applications"
+- title: "Authenticating Phone Users Using a Gait-Based Histogram Approach on Mobile App Sessions"
   image: stylometry_survey.png
-  description: Here, we perform an extensive performance analysis on a corpus of 1,000 authors to investigate authorship attribution, verification, and clustering using 14 algorithms from the literature. Finally, several remaining research challenges are discussed, along with descriptions of various open-source and commercial software that may be useful for stylometry subtasks.
-  authors: Tempestt Neal, Kalaivani Sundararajan, Aneez Fatima, Yiming Yan, Yingfei Xiang, Damon Woodard
+  description: Collectively, user-friendly interfaces, small but impactful sensing technologies, intuitive device designs, and the variety of mobile applications (or apps) have transformed the expectations for cellular phones. Apps are a primary factor in device functionality; they allow users to quickly carry out tasks directly on their device. This paper leverages mobile apps for continuous authentication of mobile device users. We borrow from a gait-based approach by continuously extracting n-bin histograms from numerically encoded app data. Since more active subjects will generate more data, it would be trivial to distinguish between these subjects and others which are not as active. Thus, we divided a dataset of 19 months of app data from 181 subjects into three datasets to determine if minimally active, moderately active, or very active subjects were more challenging to authenticate. Using the absolute distance between two histograms, our approach yielded a worst-case EER of 0.188 and a best-case EER of 0.036 with a worst-case initial training period of 1.06 hours. We also show a positive correlation between user activity level and performance, and template size and performance. Our method is characterized by minimal training samples and a context-independent evaluation, addressing important factors which are known to affect the practicality of continuous authentication systems.
+  authors: T. Neal, M. A. Noor, P. Gera, K. Zanna and G. Kaptan
   link:
-    url: https://dl.acm.org/doi/abs/10.1145/3132039
-    display: ACM Computing Surveys (2017)
+    url: https://doi.org/10.1109/ICB45273.2019.8987418
+    display: 2019 International Conference on Biometrics (ICB)
   highlight: 0
   news2: 
-
-- title: "Exploiting Linguistic Style as a Cognitive Biometric for Continuous Verification"
-  image: 
-  description: This paper presents an assessment of continuous verification using linguistic style as a cognitive biometric. In stylometry, it is widely known that linguistic style is highly characteristic of authorship using representations that capture authorial style at character, lexical, syntactic, and semantic levels. In this work, we provide a contrast to previous efforts by implementing a one-class classification problem using Isolation Forests. Our approach demonstrates the usefulness of this classifier for accurately verifying the genuine user, and yields recognition accuracy exceeding 98% using very small training samples of 50 and 100-character blocks.
-  authors: Tempestt Neal, Kalaivani Sundararajan, Damon Woodard
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/8411232
-    display:  ICB 2018
-  highlight: 0
-  news2:
-
-- title: "Style Signatures to Combat Biometric Menagerie in Stylometry"
-  image: 
-  description: In this paper, we investigate the challenges of using a person's writing style as a cognitive biometric modality by applying Doddington's idea of Biometric menagerie. To the best of our knowledge, biometric menagerie analysis has been on performed on a cognitive biometric modality for the first time. The presence of goats, wolves and lambs in this modality is demonstrated using two publicly available datasets - Blogs and IMDB1M. To combat this challenging problem, we further propose using person-specific features referred to as "Style signatures" which may be better at distinguishing different individuals. Experimental results show that using person-specific Style signatures improve verification by 3.6-5.5% on both datasets.
-  authors: Kalaivani Sundararajan, Tempestt Neal, Damon Woodard
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/8411231
-    display:  ICB 2018
-  highlight: 0
-  news2: 
-
-- title: "A Transition-based Parser for Unscoped Episodic Logical Forms"
-  image: ulf_transition_parser.png
-  description: This paper presents the first learned approach for parsing sentences into ULFs, using a growing set of annotated examples. Our method learns a sequence-to-sequence model for predicting the transition action sequence within a modified cache transition system and provides a strong baseline for future improvement. We also evaluate the efficacy of type grammar-based constraints, a word-to-symbol lexicon, and transition system state features in this task.
-  authors: Gene Louis Kim, Viet Duong, Xin Lu, Lenhart Schubert
-  link:
-    url: https://aclanthology.org/2021.iwcs-1.18/
-    display: IWCS 2021, Article 18
-  highlight: 0
-  news2:
-
-- title: "Montague Induction Grammar"
-  image: montague_induction_grammar.png
-  description: Here, we propose a computational modeling framework for inducing combinatory categorial grammars from arbitrary language data. This framework provides fine-grained control over the assumptions that the induced grammar should conform to. In a proof-of-concept experiment, we deploy our framework for use in distributional analysis of the relationship between s(emantic)-selection and c(ategory)-selection, using as input a lexicon-scale acceptability judgment dataset focused on English verbs’ syntactic distribution and enforcing standard assumptions from the semantics literature on the induced grammar.
-  authors: Gene Louis Kim, Aaron Steven White
-  link:
-    url: https://doi.org/10.3765/salt.v30i0.4816
-    display: SALT 30 (2021)
-  highlight: 0
-  news2:
