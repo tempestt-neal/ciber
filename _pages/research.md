@@ -43,8 +43,8 @@ Current software for user authentication relies on the user to directly initiate
 
 This project is a collaboration between the CIBeR Lab, the [Affective Vision Lab](https://scanavan.github.io/), the [Intelligent Natural Interaction Technology Lab](http://init.cise.ufl.edu/), and the [Ruiz Human-Computer Interaction Lab](https://ruizlab.org/).
 
-#### We are currently collecting data for this project!
-We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old to participate in a NSF-funded research study to investigate the usability and design of user authentication systems to support individuals in different age ranges. 
+#### We are currently collecting data for this project! We need your help!
+We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old.
  
 **Study Purpose:** The purpose of this study is to investigate age-aware user authentication methods in home settings. User authentication is important for protecting you against unauthorized use of your personal computing devices, such as laptops and smartphones. It is likely that you already use an authentication method like a password or face recognition. However, these methods are not easily usable for users of different age groups. For example, younger users may find it difficult to create strong passwords. This study aims to collect data to help us develop new user authentication techniques that support users of all ages.
  
@@ -53,7 +53,7 @@ You can then decide if you would like to participate in the following three sess
  
 You will be compensated $35 as an e-gift card for each completed session. As a participant, you must be willing to agree to comply with all COVID-19 safety measures as outlined in the consent form.
  
-**Do you qualify?** If you are 6 to 12 or 18 years old or older and wish to participate, please click here to select a time to schedule your first session where we will overview the study details. Once you’ve selected a date and time that works for you, 
+**Do you qualify?** If you are 6 to 12 or 18 years old or older and wish to participate, please [click here](https://www.picktime.com/ciber) to select a time to schedule your first session where we will overview the study details. Once you’ve selected a date and time that works for you, 
 a researcher will reach out to you to formally schedule the meeting.
   
 *The material produced in this project is based upon work supported by the National Science Foundation under Grant No. 2039373 and 2039379. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. This study has been approved by the USF IRB board #STUDY002291. This research is funded by NSF Secure &Trustworthy Cyberspace Program Study #2039373.*
