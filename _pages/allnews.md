@@ -1,7 +1,7 @@
 ---
-title: "NLP Group @ USF - News"
+title: "CIBeR @ USF - News"
 layout: textlay
-excerpt: "NLP Group @ USF - News"
+excerpt: "CIBeR @ USF - News"
 sitemap: false
 permalink: /allnews.html
 ---
