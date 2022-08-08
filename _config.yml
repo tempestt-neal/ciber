@@ -10,8 +10,8 @@ title: CIBeR @ USF
 email: COENG-CIBER@usf.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Cyber Identity and Behavior Research Lab @ USF.
-baseurl: ""
-url: ""
+url: "https://tempestt-neal.github.io"
+baseurl: "/ciber"
 
 include:
   - .htaccess
