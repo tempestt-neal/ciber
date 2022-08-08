@@ -1,5 +1,5 @@
 ---
-title: "NLP Group @ USF - Vacancies"
+title: "CIBeR @ USF - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,20 +8,40 @@ permalink: /vacancies
 
 # Open positions
 
-We are looking for new group members with passion, talent, and grit!
+Currently, we do not have funding for additional PhD students and can only welcome you if you have a fellowship.
 
-You will have the chance to work in the growing field of natural language processing: its use for the study of language, its interface with computer reasoning, and its application in analyzing human behaviors both within and beyond the field of computer science. 
+Students interested in joining CIBeR are encouraged to review the lab's [manual](ciber-manual.pdf) to determine if our lab is a good fit for you. The content below provides more information about joining our group.​
+
 
 ### Applications for PhD positions
-If you are interested in working with Dr. Kim as a PhD student, please send him an [email](mailto:genekim@usf.edu) and submit an application to the Department of Computer Science and Engineering at USF. In your email, state briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. **Important**: please insert _"Application PhD"_ in the subject line so that I don't miss it.
+Ph.D. students with experience in one or more of the following research areas are encouraged to send their application materials (listed below) to Dr. Neal via [e-mail](tjneal@usf.edu).
+* Machine and deep learning / pattern recognition systems
+* Statistical analysis
+* Image processing / computer vision
+* Qualitative data analysis methods
+* Natural language processing
+* Proficiency in Python, TensorFlow, Keras, Sci-kit Learn
+* Cloud storage
+* Data mining
 
-If you are interested in working with Dr. Licato, please see [the page about prospective students](https://sites.google.com/view/amhr/people/prospective-students) on his lab website.
+#### All graduate students must be able and willing to:
+* Support undergraduate students / serve as mentors,
+* Work toward effective communication of their research (e.g., presentation and writing skills),
+* and work peacefully and productively in a team environment.
 
-Currently, Dr. Neal does not have funding for additional PhD students and can only welcome you if you have a fellowship.
+#### Interested students should submit the following materials to tjneal[at]usf[dot]edu for consideration.
+1. A brief summary of two projects (can be coursework or something you have completed on a job or your own) that you are most proud of, and what your contributions were to the project.
+2. Your views on the on-going research in the CIBeR lab that appeals to you the most. This requires that you familiarize yourself with our research projects. I'd like your input on our current research strategies, and how you feel you might be able to expand or contribute to these efforts.
+3. Brief write-up of how you feel technology and computer science can be used to improve problems facing the world. Please provide specific examples.
+4. List of courses taken with final grades.
+5. Degree you are currently pursuing and expected start date at USF.
+6. Updated CV and publications, presentation slides, etc, if available.
+7. Link to personal website.
 
-### Master projects for USF CSE students
-If you are a Master student at USF looking for a Master project and would like to work with
-- Dr. Kim: contact him per email or stop by his office,
-- Dr. Licato: see [the AMHR Lab page on prospective students](https://sites.google.com/view/amhr/people/prospective-students). 
-- Dr. Neal: contact her per email or stop by her office.
+### Undergraduate Researchers
+We are always looking for enthusiastic undergraduate students interested in gaining hands-on experience in research. Ideal students will have some experience in our research areas and will be able to clearly articulate how they want to contribute to the lab. Ideal students will also be able to dedicate 3-5 hours to working with our research team per week, and will meet regularly during lab meetings. All undergraduate students are brought into the lab as volunteers, and are encouraged to take full advantage of the wide spectrum of learning opportunities. *Importantly, all undergraduates working with the lab should strongly considering registering for Supervised Research (CIS 4915) credits.*
+
+### M.S. students seeking a thesis advisor are encouraged to reach out to Dr. Neal no later than the middle of their first semester in the M.S. program.
+
+
 
