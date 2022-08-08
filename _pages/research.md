@@ -43,6 +43,11 @@ Current software for user authentication relies on the user to directly initiate
 
 This project is a collaboration between the CIBeR Lab, the [Affective Vision Lab](https://scanavan.github.io/), the [Intelligent Natural Interaction Technology Lab](http://init.cise.ufl.edu/), and the [Ruiz Human-Computer Interaction Lab](https://ruizlab.org/).
 
+#### Here's a research talk that Dr. Neal gave at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) focused on this project.
+
+https://user-images.githubusercontent.com/64705103/183489899-0eacc2b1-697a-4466-9e6d-31e5b9afaa5d.mp4
+
+
 #### We are currently collecting data for this project! We need your help!
 We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old.
  
