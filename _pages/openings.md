@@ -14,7 +14,7 @@ Students interested in joining CIBeR are encouraged to review the lab's [manual]
 
 
 ### Applications for PhD positions
-Ph.D. students with experience in one or more of the following research areas are encouraged to send their application materials (listed below) to Dr. Neal via [e-mail](tjneal@usf.edu).
+Ph.D. students with experience in one or more of the following research areas are encouraged to send their application materials (listed below) to Dr. Neal via [e-mail](mailto:tjneal@usf.edu).
 * Machine and deep learning / pattern recognition systems
 * Statistical analysis
 * Image processing / computer vision
@@ -29,7 +29,7 @@ Ph.D. students with experience in one or more of the following research areas ar
 * Work toward effective communication of their research (e.g., presentation and writing skills),
 * and work peacefully and productively in a team environment.
 
-#### Interested students should submit the following materials to tjneal[at]usf[dot]edu for consideration.
+#### Interested students should submit the following materials via [e-mail](mailto:tjneal@usf.edu) for consideration.
 1. A brief summary of two projects (can be coursework or something you have completed on a job or your own) that you are most proud of, and what your contributions were to the project.
 2. Your views on the on-going research in the CIBeR lab that appeals to you the most. This requires that you familiarize yourself with our research projects. I'd like your input on our current research strategies, and how you feel you might be able to expand or contribute to these efforts.
 3. Brief write-up of how you feel technology and computer science can be used to improve problems facing the world. Please provide specific examples.
