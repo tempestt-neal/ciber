@@ -9,10 +9,10 @@ permalink: /research/
 # Research
 
 Our research is largely inspired by the ubiquitous nature of today's technologies, and how smart sensing enabled by these technologies can be used to understand how people interact with the technology itself, interact with each other, and behave in different environments. To do so, we generally rely on applied artificial intelligence, statistics, and human-centered computing techniques to answer research questions which focus on
-- usable and inclusive cybersecurity systems, particularly related to identity and access management
-- interdisciplinary applications of human behavior analysis through smart sensing
+- **usable and inclusive cybersecurity systems for personally-owned computing devices, particularly related to identity and access management**
+- **interdisciplinary applications of human behavior analysis through smart sensing**
 
-Here are some themes and techniques that we currently work on:
+## Here are some themes and techniques that we currently work on:
 
 ### Mobile Biometrics
 Commercial mobile devices currently employ point-of-entry (PoE) authentication methods such as face recognition and personal identification numbers. Several studies show that knowledge-based authenticators are ineffective due to increased memory load, poorly chosen alphanumeric combinations, and repetitive use of passcodes across many applications. PoE and knowledge-based authenticators are both ineffective throughout sessions of use; once the user is authenticated, the device and its content remain available to the current user. In this research, we explored various data based on usage of a mobile device as behavioral biometric modalities, including patterns in application use, networking activity (i.e., Bluetooth and Wi-Fi sightings), and communication through calling and text messaging, which can continuously and passively authenticate a device’s owner. 
@@ -43,39 +43,37 @@ Current software for user authentication relies on the user to directly initiate
 
 This project is a collaboration between the CIBeR Lab, the [Affective Vision Lab](https://scanavan.github.io/), the [Intelligent Natural Interaction Technology Lab](http://init.cise.ufl.edu/), and the [Ruiz Human-Computer Interaction Lab](https://ruizlab.org/).
 
-#### Here's a research talk that Dr. Neal gave at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) focused on this project.
+#### [Here's a research talk](https://cse.usf.edu/~tjneal/media/PNNL%20-%20Nov%202021.mp4) that Dr. Neal gave at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) focused on this project.
 
-[Watch the talk.](https://cse.usf.edu/~tjneal/media/PNNL%20-%20Nov%202021.mp4)
-
-
-#### We are currently collecting data for this project! We need your help!
-We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old.
- 
-**Study Purpose:** The purpose of this study is to investigate age-aware user authentication methods in home settings. User authentication is important for protecting you against unauthorized use of your personal computing devices, such as laptops and smartphones. It is likely that you already use an authentication method like a password or face recognition. However, these methods are not easily usable for users of different age groups. For example, younger users may find it difficult to create strong passwords. This study aims to collect data to help us develop new user authentication techniques that support users of all ages.
- 
-**Your Role in this Study:** If you are interested, you will be asked to participate in four sessions with us. The first session is completely virtual (e.g., Microsoft Teams, Zoom, etc.), where a member of the research team will overview the consent form which details the study procedures and allows you to make an informed decision on if you want to participate. This meeting is approximately 20 minutes. 
+> :exclamation::exclamation::exclamation: **We are currently collecting data for this project! We need your help!**
+> We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old.
+>  
+> **Study Purpose:** The purpose of this study is to investigate age-aware user authentication methods in home settings. User authentication is important > for protecting you against unauthorized use of your personal computing devices, such as laptops and smartphones. It is likely that you already use an authentication method like a password or face recognition. However, these methods are not easily usable for users of different age groups. For example, younger users may find it difficult to create strong passwords. This study aims to collect data to help us develop new user authentication techniques that support users of all ages.
+>  
+> **Your Role in this Study:** If you are interested, you will be asked to participate in four sessions with us. The first session is completely virtual (e.g., Microsoft Teams, Zoom, etc.), where a member of the research team will overview the consent form which details the study procedures and allows you to make an informed decision on if you want to participate. This meeting is approximately 20 minutes. 
 You can then decide if you would like to participate in the following three sessions, which will require you to come into the lab on three separate occasions for data collection. Each of these sessions will last for approximately one hour, where you will perform a set of everyday tasks like watching short YouTube videos and typing on a computer. As you complete these tasks, the research team has developed software to collect various types of data characterizing your interaction with the devices you will be using, including but not limited to, video, audio, physiological data (e.g., heartbeat), keystroke, and touchscreen gestures. 
- 
-You will be compensated $35 as an e-gift card for each completed session. As a participant, you must be willing to agree to comply with all COVID-19 safety measures as outlined in the consent form.
- 
-**Do you qualify?** If you are 6 to 12 or 18 years old or older and wish to participate, please [click here](https://www.picktime.com/ciber) to select a time to schedule your first session where we will overview the study details. Once you’ve selected a date and time that works for you, 
+>  
+> You will be compensated $35 as an e-gift card for each completed session. As a participant, you must be willing to agree to comply with all COVID-19 safety measures as outlined in the consent form.
+>  
+> **Do you qualify?** If you are 6 to 12 or 18 years old or older and wish to participate, please [click here](https://www.picktime.com/ciber) to select a time to schedule your first session where we will overview the study details. Once you’ve selected a date and time that works for you, 
 a researcher will reach out to you to formally schedule the meeting.
-  
-*The material produced in this project is based upon work supported by the National Science Foundation under Grant No. 2039373 and 2039379. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. This study has been approved by the USF IRB board #STUDY002291. This research is funded by NSF Secure &Trustworthy Cyberspace Program Study #2039373.*
 
 **This project has resulted in the following publications:**
-1. Tempestt Neal, Lisa Anthony, Shaun Canavan, Jaime Ruiz, Saandeep Aathreya, Meghna Chaudhary, Yu-Peng Chen, Heting Wang, Rodrigo Calvo, Liza Jivnani and Nicolas Ng Wai. "Toward Understanding Children's Use and Understanding of User Authentication Systems: Work-in-Progress." USENIX Symposium on Usable Privacy and Security (SOUPS) 2022. SOUPS 2022: Workshop on Kids' Online Privacy and Safety.
+1. Tempestt Neal, Lisa Anthony, Shaun Canavan, Jaime Ruiz, Saandeep Aathreya, Meghna Chaudhary, Yu-Peng Chen, Heting Wang, Rodrigo Calvo, Liza Jivnani and Nicolas Ng Wai. "[Toward Understanding Children's Use and Understanding of User Authentication Systems: Work-in-Progress.](https://cuts.soic.indiana.edu/KOPSpapers/KOPS_2022_paper_8074.pdf)" USENIX Symposium on Usable Privacy and Security (SOUPS) 2022. SOUPS 2022: Workshop on Kids' Online Privacy and Safety.
 
+*The material produced in this project is based upon work supported by the National Science Foundation under Grant No. 2039373 and 2039379. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. This study has been approved by the USF IRB board #STUDY002291.*
 <hr />
 
 ### Human Behavior Tracking and Mental Health
 
 This project focuses on the Up To Me program, a three lesson, disclosure-based stigma reduction program meant to reduce barriers to community living and participation for college students with psychiatric disabilities. Anticipated outcomes of this project for college students include improvements in 1) self-stigma (self-esteem and self-efficacy), 2) empowerment and self-determination, 3) appraisals of stigma as a stressor, 4) student engagement on campus, 5) sense of campus belonging, and 6) care seeking/service engagement for mental illness. The CIBeR Lab's contributions lies in the investigation of the use of sensor data collected from a smartphone as a proxy of behavior to substantiate self-report data on outcomes. 
 
-*This award (90IFRE0056) is supported by the Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) as part of a financial assistance award totaling $600,000 with 100 percent funding by ACL/HHS. The contents are those of the author(s) and do not necessarily represent the official views of, nor an endorsement, by ACL/HHS, or the U.S. Government.*
+This project is a collaboration between the [Stigma Action Research Lab](https://www.usf.edu/cbcs/mhlp/centers/star-lab/) and the CIBeR Lab.
 
 **This project has resulted in the following publications:**
 1. King S, Lebert J, Karpisek L, Phillips A, Neal T, Kosyluk K. "Characterizing User Experiences With an SMS Text Messaging–Based mHealth Intervention: Mixed Methods Study" JMIR Form Res 2022;6(5):e35699 URL: https://formative.jmir.org/2022/5/e35699 DOI: 10.2196/35699
+
+*This award (90IFRE0056) is supported by the Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) as part of a financial assistance award totaling $600,000 with 100 percent funding by ACL/HHS. The contents are those of the author(s) and do not necessarily represent the official views of, nor an endorsement, by ACL/HHS, or the U.S. Government.*
 
 <hr />
 
@@ -83,6 +81,8 @@ This project focuses on the Up To Me program, a three lesson, disclosure-based s
 
 Multimodal transportation, such as transit, bike, walk, ride-hailing (e.g., Uber, Lyft), car-share, and bike-share, are vital to supporting livable communities. However, activity data of travelers using these modes have been difficult to acquire. This research leverages ground truth data to develop intelligent models to infer missing and incomplete travel behavior characteristics from the OneBusAway data to provide trip origin, destination, and mode. The research team will deploy these models to provide an enhanced picture of the travel behavior of OneBusAway users in Mayaguez, Puerto Rico. The team will use the database generated by the intelligent model and additional transportation system information to conduct demand analysis and identify demand patterns and their impact on traffic congestion. The resulting model and tools will be immediately applicable to all nine cities that have deployed OneBusAway to better understand the relationship between multimodal travel behavior and traffic congestion. Using crowdsourcing, big data science, and machine learning, these tools will help transportation agencies deploy new, automated strategies to improve congested multimodal systems in the immediate future.
 
-This project is a collaboration between the [Center for Urban Transportation at USF](https://www.cutr.usf.edu/), the [University of Puerto Rico at Mayaguez](https://www.uprm.edu/portada/), and the CIBER Lab.
+This project is a collaboration between the [Center for Urban Transportation at USF](https://www.cutr.usf.edu/), the [University of Puerto Rico at Mayaguez](https://www.uprm.edu/portada/), and the CIBeR Lab.
+
+*This project, [3-7: Transforming multimodal travel behavior data from an open-source platform to support traffic congestion reduction strategies](https://nicr.usf.edu/2022/05/18/3-7_transforming_multimodal_travel_behavior/), is supported by the National Institute for Congestion Research.*
 
 ### We also conduct research in natural language processing as a part of the [Natural Language Processing Group](https://nlp-grp.github.io/) at USF.
