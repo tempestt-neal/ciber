@@ -45,7 +45,7 @@ This project is a collaboration between the CIBeR Lab, the [Affective Vision Lab
 
 #### [Here's a research talk](https://cse.usf.edu/~tjneal/media/PNNL%20-%20Nov%202021.mp4) that Dr. Neal gave at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) focused on this project.
 
-> :exclamation::exclamation::exclamation: **We are currently collecting data for this project! We need your help!**
+> **We are currently collecting data for this project! We need your help!**
 > We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old.
 >  
 > **Study Purpose:** The purpose of this study is to investigate age-aware user authentication methods in home settings. User authentication is important > for protecting you against unauthorized use of your personal computing devices, such as laptops and smartphones. It is likely that you already use an authentication method like a password or face recognition. However, these methods are not easily usable for users of different age groups. For example, younger users may find it difficult to create strong passwords. This study aims to collect data to help us develop new user authentication techniques that support users of all ages.
