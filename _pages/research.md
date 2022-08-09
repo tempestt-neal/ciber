@@ -85,4 +85,6 @@ This project is a collaboration between the [Center for Urban Transportation at 
 
 *This project, [3-7: Transforming multimodal travel behavior data from an open-source platform to support traffic congestion reduction strategies](https://nicr.usf.edu/2022/05/18/3-7_transforming_multimodal_travel_behavior/), is supported by the National Institute for Congestion Research.*
 
+<hr />
+
 ### We also conduct research in natural language processing as a part of the [Natural Language Processing Group](https://nlp-grp.github.io/) at USF.
