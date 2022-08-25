@@ -26,7 +26,7 @@ a researcher will reach out to you to formally schedule the meeting.
 
 <hr />
 
-## Deception Detection in Clinical Settings
+## Dementia and AI
 
 CIBeR Ph.D. student, Wilson Lozano, is seeking caregivers of individual’s diagnosed with dementia to participate in a 45-minute interview. The interview aims to gather information about behavioral and social cues of distress in patients with dementia, with a long-term goal of gathering these cues in an automated fashion using non-intrusive sensors and artificial intelligence. The goal is to design and build a smart agent for at-home use to assist caregivers in monitoring their loved ones, with a specific goal in predicting and detecting distress in the patient. With this, we hope to improve the quality of life of both patients and caregivers by allowing caregivers to responding proactively to distress rather than reactively. Our interviews focus on which items to consider when developing such a tool, and if and how such a tool might be useful to caregivers (and what we should not implement in its development).
  
