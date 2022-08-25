@@ -28,9 +28,14 @@ a researcher will reach out to you to formally schedule the meeting.
 
 ## Deception Detection in Clinical Settings
 
+CIBeR Ph.D. student, Wilson Lozano, is seeking caregivers of individual’s diagnosed with dementia to participate in a 45-minute interview. The interview aims to gather information about behavioral and social cues of distress in patients with dementia, with a long-term goal of gathering these cues in an automated fashion using non-intrusive sensors and artificial intelligence. The goal is to design and build a smart agent for at-home use to assist caregivers in monitoring their loved ones, with a specific goal in predicting and detecting distress in the patient. With this, we hope to improve the quality of life of both patients and caregivers by allowing caregivers to responding proactively to distress rather than reactively. Our interviews focus on which items to consider when developing such a tool, and if and how such a tool might be useful to caregivers (and what we should not implement in its development).
+ 
+If you are the primary caregiver of a person with dementia, and are at least 18 years old, we’d love to schedule a 15-minute virtual meeting with you to overview this study’s design. Please [click here](https://calendly.com/wilsonlozano/ai4dementia) if you are interested to schedule this initial 15-minute meeting. After the call, if you would like to participate, I will schedule your interview (either in-person or virtually). The interview will be recorded; however, we will discard any identifying information associated with your participation. After the interview, you will be compensated $15 as an e-gift card as a thank you for your time.
+  
+This study has been approved by the USF IRB board #STUDY004257.
+
 <hr />
 
-## Password Creating Generation Understanding
-
+## 
 
 
