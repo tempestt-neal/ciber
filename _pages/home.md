@@ -4,6 +4,9 @@ layout: homelay
 excerpt: "CIBeR Group @ USF"
 sitemap: false
 permalink: /
+---
+
+![CIBeR](https://user-images.githubusercontent.com/64705103/188959333-af03ebbc-bc08-401c-b15e-b60f315a2d2e.png)
 
 The **C**yber **I**dentity and **Be**havior **R**esearch (CIBeR) Lab conducts research related to Identity and Access Management, *particularly, mobile biometrics and inclusive user authentication systems*, and Smart Sensing, *particularly for human behavior analysis and interdisplinary applications of behavior tracking.* We also conduct research in natural language processing (visit the [NLP Group](https://nlp-grp.github.io/) at USF). CIBeR is directed by [Dr. Tempestt Neal](https://tempestt-neal.github.io/web/), an assistant professor in the [Department of Computer Science and Engineering](http://cse.usf.edu/) at the [University of South Florida](https://www.usf.edu/). 
 
