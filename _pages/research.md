@@ -45,7 +45,7 @@ This project is a collaboration between the CIBeR Lab, the [Affective Vision Lab
 
 #### [Here's a research talk](https://cse.usf.edu/~tjneal/media/PNNL%20-%20Nov%202021.mp4) that Dr. Neal gave at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) focused on this project.
 
-> **We are currently collecting data for this project! [We need your help!](tempestt-neal.github.io/ciber/participate/)**
+> **We are currently collecting data for this project! [We need your help!](https://tempestt-neal.github.io/ciber/participate/)**
 
 **This project has resulted in the following publications:**
 1. Tempestt Neal, Lisa Anthony, Shaun Canavan, Jaime Ruiz, Saandeep Aathreya, Meghna Chaudhary, Yu-Peng Chen, Heting Wang, Rodrigo Calvo, Liza Jivnani and Nicolas Ng Wai. "[Toward Understanding Children's Use and Understanding of User Authentication Systems: Work-in-Progress.](https://cuts.soic.indiana.edu/KOPSpapers/KOPS_2022_paper_8074.pdf)" USENIX Symposium on Usable Privacy and Security (SOUPS) 2022. SOUPS 2022: Workshop on Kids' Online Privacy and Safety.
