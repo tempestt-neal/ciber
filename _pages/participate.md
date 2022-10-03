@@ -8,6 +8,19 @@ permalink: /participate/
 
 # Participate in Our Research 
 
+## Understanding Password Creation Habits
+
+We're conducting an anonymous survey to understand how and why people choose certain username and passwords as their online account credentials. The survey should take no more than 5 minutes to complete. This study is considered minimal risk, and your participation is voluntary. The survey will request demographic data but will not collect personally identifying information. 
+
+This study is being conducted for research purposes.
+
+If you are 18 years old or older, we invite you take our survey accessible at the link below: 
+https://usf.az1.qualtrics.com/jfe/form/SV_cwqayUILXf3YHIO
+
+This study has been approved by the University of South Florida’s Institutional Review Board, Study # STUDY004813.
+
+<hr />
+
 ## Age-Aware User Authentication
 
 We are seeking a limited number of research participants between the ages of 6-12 and 18+ years old.
