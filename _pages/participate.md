@@ -15,7 +15,7 @@ We're conducting an anonymous survey to understand how and why people choose cer
 This study is being conducted for research purposes.
 
 If you are 18 years old or older, we invite you take our survey accessible at the link below: 
-https://usf.az1.qualtrics.com/jfe/form/SV_cwqayUILXf3YHIO
+[https://usf.az1.qualtrics.com/jfe/form/SV_cwqayUILXf3YHIO](https://usf.az1.qualtrics.com/jfe/form/SV_cwqayUILXf3YHIO)
 
 This study has been approved by the University of South Florida’s Institutional Review Board, Study # STUDY004813.
 
