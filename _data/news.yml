@@ -1,4 +1,10 @@
 - date: January 2023
+  headline: "CIBeR student Meghna Chaudhary was awarded a scholarship to attend the CRA-WP Grad Cohort for Women 2023 by the Computing Research Association!"
+
+- date: January 2023
+  headline: "CIBeR student Meghna Chaudhary secured an internship at Intuit as a Data Scientist!"
+
+- date: January 2023
   headline: "Dr. Neal receives an NSF CAREER Award for project [Inclusive Cybersecurity Through the Lens of Accessible Identity and Access Management](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238389&HistoricalAwards=false)!"
 
 - date: October 2022
@@ -14,7 +20,13 @@
   headline: "CIBeR student Sayde King secured an internship with MIT Lincoln Laboratory!"
 
 - date: May 2022
+  headline: "CIBeR student Meghna Chaudhary secured an internship at Intuit as a Data Scientist. She was awarded the Courage spotlight award by the team manager!"
+
+- date: May 2022
   headline: "CIBeR director Dr. Neal and USF CSE faculty launch the [NLP Group](https://nlp-grp.github.io/)."
+  
+- date: May 2022
+  headline: "CIBeR student Meghna Chaudhary was awarded a scholarship to attend the ACM-TAPIA Conference 2022 by the CSE department at University of South Florida!"
 
 - date: April 2022
   headline: "CIBeR student Sayde King was awarded a USF Ambassadors Apple Polishing Award!"
@@ -39,15 +51,4 @@
   
 - date: May 2019
   headline: "CIBeR student Sayde King was awarded the Alfred P. Sloan Foundation Minority PhD Program Scholarship!"
-  
-- date: May 2022
-  headline: "CIBeR student Meghna Chaudhary was awarded a scholarship to attend the ACM-TAPIA Conference 2022 by the CSE department at University of South Florida!"
-
-- date: January 2023
-  headline: "CIBeR student Meghna Chaudhary was awarded a scholarship to attend the CRA-WP Grad Cohort for Women 2023 by the Computing Research Association!"
-
-- date: May 2022
-  headline: "CIBeR student Meghna Chaudhary secured an internship at Intuit as a Data Scientist. She was awarded the Courage spotlight award by the team manager!"
-
-- date: January 2023
-  headline: "CIBeR student Meghna Chaudhary secured an internship at Intuit as a Data Scientist!"
+ 
