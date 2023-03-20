@@ -28,7 +28,7 @@ permalink: /allnews.html
 - CIBeR student Parush Gera was awarded scholarship for attending SBP-BRiMS Conference 2022 by the chairs to present accepted research article.
 - CIBeR student Parush Gera secured internship at Palo Alto Networks as Software Engineer.
 - CIBeR student Sayde King was awarded a USF Ambassadors Apple Polishing Award.
-- CIBeR student Sayde King was an invited guest on the Modern Figures Podcast. 
+- CIBeR student Sayde King was an invited guest on the [Modern Figures Podcast](https://modernfigurespodcast.com/big-brain-energy-episode-038/). 
 - CIBeR student Hoorad Abootalebi was elected as the President of the Institute of Transportation Engineers Student Chapter at USF.
 
 # 2021
