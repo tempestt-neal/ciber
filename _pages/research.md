@@ -14,8 +14,13 @@ Our research is largely inspired by the ubiquitous nature of today's technologie
 
 ## Here are some themes and techniques that we currently work on:
 
-<details><h2><summary>This is an h2 title</summary></h2>
-Content goes here.
+<details>
+  <summary>
+    <h2>
+      Title
+    </h2>
+  </summary>
+  content
 </details>
 
 ### Mobile Biometrics
