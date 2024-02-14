@@ -14,14 +14,7 @@ Our research is largely inspired by the ubiquitous nature of today's technologie
 
 ## Here are some themes and techniques that we currently work on:
 
-<details>
-  <summary>
-    <h2>
-      Title
-    </h2>
-  </summary>
-  content
-</details>
+some change
 
 ### Mobile Biometrics
 Commercial mobile devices currently employ point-of-entry (PoE) authentication methods such as face recognition and personal identification numbers. Several studies show that knowledge-based authenticators are ineffective due to increased memory load, poorly chosen alphanumeric combinations, and repetitive use of passcodes across many applications. PoE and knowledge-based authenticators are both ineffective throughout sessions of use; once the user is authenticated, the device and its content remain available to the current user. In this research, we explored various data based on usage of a mobile device as behavioral biometric modalities, including patterns in application use, networking activity (i.e., Bluetooth and Wi-Fi sightings), and communication through calling and text messaging, which can continuously and passively authenticate a device’s owner. 
