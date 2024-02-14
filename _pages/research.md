@@ -14,21 +14,8 @@ Our research is largely inspired by the ubiquitous nature of today's technologie
 
 ## Here are some themes and techniques that we currently work on:
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+<details><h2><summary>This is an h2 title</summary></h2>
+Content goes here.
 </details>
 
 ### Mobile Biometrics
